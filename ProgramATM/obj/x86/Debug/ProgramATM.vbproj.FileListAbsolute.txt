@@ -1,0 +1,58 @@
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\bin\Debug\ProgramATM.exe
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\bin\Debug\ProgramATM.pdb
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\bin\Debug\ProgramATM.xml
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.Resources.resources
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.vbproj.GenerateResource.Cache
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.exe
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.xml
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.pdb
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.frmATM.resources
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.frmLogin.resources
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.frmAccount.resources
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.frmMain.resources
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\bin\Debug\ProgramATM.exe.config
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.vbprojResolveAssemblyReference.cache
+D:\Work Stuff\VB UAS\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.Laporan.resources
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\ProgramATM.exe.config
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.exe
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.xml
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.pdb
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.vbprojResolveAssemblyReference.cache
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.frmAccount.resources
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.frmATM.resources
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.frmLogin.resources
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.frmMain.resources
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.Laporan.resources
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.Resources.resources
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.vbproj.GenerateResource.Cache
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\ProgramATM.exe
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\ProgramATM.pdb
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\ProgramATM.xml
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.Shared.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\FlashControlV71.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\ShockwaveFlashObjects.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\stdole.dll
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.frmPrepare.resources
+D:\Work Stuff\VB UAS Renewed\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.frmMonitoring.resources
+D:\Work Stuff\VB TA\ProgramATM\ProgramATM\bin\Debug\ProgramATM.exe.config
+D:\Work Stuff\VB TA\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.exe
+D:\Work Stuff\VB TA\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.xml
+D:\Work Stuff\VB TA\ProgramATM\ProgramATM\obj\x86\Debug\ProgramATM.pdb
